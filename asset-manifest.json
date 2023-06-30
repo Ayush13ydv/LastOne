@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LastOne/static/css/main.91c81bc8.css",
+    "main.js": "/LastOne/static/js/main.08328eb4.js",
+    "static/media/logo.svg": "/LastOne/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LastOne/index.html",
+    "main.91c81bc8.css.map": "/LastOne/static/css/main.91c81bc8.css.map",
+    "main.08328eb4.js.map": "/LastOne/static/js/main.08328eb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91c81bc8.css",
+    "static/js/main.08328eb4.js"
+  ]
+}
